@@ -1,0 +1,2 @@
+# MedGraphRAG
+Medical GraphRAG 
